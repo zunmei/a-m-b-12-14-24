@@ -1,402 +1,176 @@
-[17:40:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[17:40:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[17:40:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:40:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[17:40:55] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
-[17:41:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:41:05] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[17:41:05] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[17:41:07] [ServerMain/INFO]: No existing world data, creating new world
-[17:41:09] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 14357ms.
-[17:41:10] [ServerMain/INFO]: Loaded 1337 recipes
-[17:41:10] [ServerMain/INFO]: Loaded 1448 advancements
-[17:41:10] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[17:41:10] [Server thread/INFO]: Loading properties
-[17:41:10] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[17:41:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:41:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:41:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:41:12] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[17:41:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[17:41:13] [Server thread/INFO]: Default game type: SURVIVAL
-[17:41:13] [Server thread/INFO]: Generating keypair
-[17:41:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:41:13] [Server thread/INFO]: Using epoll channel type
-[17:41:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:41:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:41:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:41:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:41:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:41:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:41:13] [Server thread/INFO]: Preparing level "world"
-[17:41:21] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[17:41:22] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 415.9ms
-[17:41:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:41:28] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:29] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:29] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:30] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:30] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:31] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:31] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:32] [Server thread/INFO]: Preparing spawn area: 8%
-[17:41:32] [Server thread/INFO]: Preparing spawn area: 18%
-[17:41:33] [Server thread/INFO]: Preparing spawn area: 18%
-[17:41:33] [Server thread/INFO]: Preparing spawn area: 18%
-[17:41:34] [Server thread/INFO]: Preparing spawn area: 18%
-[17:41:35] [Server thread/INFO]: Preparing spawn area: 26%
-[17:41:35] [Server thread/INFO]: Preparing spawn area: 26%
-[17:41:35] [Server thread/INFO]: Preparing spawn area: 51%
-[17:41:36] [Server thread/INFO]: Preparing spawn area: 51%
-[17:41:36] [Server thread/INFO]: Preparing spawn area: 51%
-[17:41:37] [Server thread/INFO]: Preparing spawn area: 53%
-[17:41:37] [Server thread/INFO]: Preparing spawn area: 73%
-[17:41:38] [Server thread/INFO]: Time elapsed: 9418 ms
-[17:41:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:41:38] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:38] [Server thread/INFO]: Preparing spawn area: 6%
-[17:41:39] [Server thread/INFO]: Preparing spawn area: 18%
-[17:41:39] [Server thread/INFO]: Preparing spawn area: 48%
-[17:41:40] [Server thread/INFO]: Preparing spawn area: 55%
-[17:41:40] [Server thread/INFO]: Time elapsed: 2408 ms
-[17:41:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:41:40] [Server thread/INFO]: Preparing spawn area: 2%
-[17:41:41] [Server thread/INFO]: Preparing spawn area: 40%
-[17:41:41] [Server thread/INFO]: Time elapsed: 762 ms
-[17:41:41] [Server thread/INFO]: [spark] Starting background profiler...
-[17:41:41] [Server thread/INFO]: Done preparing level "world" (27.975s)
-[17:41:41] [Server thread/INFO]: Running delayed init tasks
-[17:41:41] [Server thread/INFO]: Done (50.601s)! For help, type "help"
-[17:41:41] [Server thread/INFO]: *************************************************************************************
-[17:41:41] [Server thread/INFO]: This is the first time you're starting this server.
-[17:41:41] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[17:41:41] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[17:41:41] [Server thread/INFO]: *************************************************************************************
-[17:43:08] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[17:43:15] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[17:43:15] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[17:43:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:43:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:43:15] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[17:43:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[17:43:16] [Server thread/INFO]: Loaded 1337 recipes
-[17:43:16] [Server thread/INFO]: Loaded 1448 advancements
-[17:43:16] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:43:16] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Terra-bukkit-6.5.1-BETA+0a952cff4-shaded.jar'...
-[17:43:16] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/floodgate-spigot (1).jar'...
-[17:43:21] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Terra-bukkit-6.5.1-BETA+0a952cff4-shaded.jar' in 4872ms.
-[17:43:22] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/floodgate-spigot (1).jar' in 5871ms.
-[17:43:22] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[17:43:22] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.6.0-SNAPSHOT), Terra (6.5.1-BETA+0a952cff4), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[17:43:22] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Initializing Terra...
-[17:43:22] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Loading config.yml
-[17:43:22] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping config.yml...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.config.PluginConfigImpl] Loading config values from config.yml
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/bootstrap/Terra-api-addon-loader-0.1.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/bootstrap/Terra-manifest-addon-loader-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-biome-provider-extrusion-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-biome-provider-image-1.0.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-biome-provider-image-v2-1.0.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-biome-provider-pipeline-1.0.2-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-biome-provider-pipeline-v2-1.0.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-biome-provider-single-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-biome-query-api-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-chunk-generator-noise-3d-1.2.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-command-addons-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-command-packs-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-command-profiler-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-command-structures-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-biome-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-distributors-1.0.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-feature-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-flora-1.0.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-locators-1.1.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-noise-function-1.2.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-number-predicate-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-ore-1.1.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-palette-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-config-structure-1.0.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-generation-stage-feature-1.1.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-generation-stage-structure-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-language-yaml-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-library-image-1.1.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-locator-slant-noise-3d-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-palette-block-shortcut-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-pipeline-image-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-structure-block-shortcut-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-structure-mutator-0.1.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-structure-sponge-loader-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-structure-terrascript-loader-1.2.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-terrascript-function-check-noise-3d-1.0.1-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/addons/Terra-terrascript-function-sampler-1.0.0-BETA+0a952cff4-all.jar...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Dumping resource /workspaces/a-m-b-12-14-24/servidor_minecraft/plugins/Terra/packs/default.zip...
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Loading 37 Terra addons:
-        - biome-provider-extrusion@1.0.0-BETA+0a952cff4
-        - biome-provider-image@1.0.1-BETA+0a952cff4
-        - biome-provider-image-v2@1.0.1-BETA+0a952cff4
-        - biome-provider-pipeline@1.0.2-BETA+0a952cff4
-        - biome-provider-pipeline-v2@1.0.1-BETA+0a952cff4
-        - biome-provider-single@1.0.0-BETA+0a952cff4
-        - biome-query-api@1.0.0-BETA+0a952cff4
-        - chunk-generator-noise-3d@1.2.1-BETA+0a952cff4
-        - command-addons@1.0.0-BETA+0a952cff4
-        - command-packs@1.0.0-BETA+0a952cff4
-        - command-profiler@1.0.0-BETA+0a952cff4
-        - command-structures@1.0.0-BETA+0a952cff4
-        - config-biome@1.0.0-BETA+0a952cff4
-        - config-distributors@1.0.1-BETA+0a952cff4
-        - config-feature@1.0.0-BETA+0a952cff4
-        - config-flora@1.0.1-BETA+0a952cff4
-        - config-locators@1.1.1-BETA+0a952cff4
-        - config-noise-function@1.2.0-BETA+0a952cff4
-        - config-number-predicate@1.0.0-BETA+0a952cff4
-        - config-ore@1.1.1-BETA+0a952cff4
-        - config-palette@1.0.0-BETA+0a952cff4
-        - config-structure@1.0.1-BETA+0a952cff4
-        - generation-stage-feature@1.1.0-BETA+0a952cff4
-        - generation-stage-structure@1.0.0-BETA+0a952cff4
-        - language-yaml@1.0.0-BETA+0a952cff4
-        - library-image@1.1.0-BETA+0a952cff4
-        - locator-slant-noise-3d@1.0.0-BETA+0a952cff4
-        - palette-block-shortcut@1.0.0-BETA+0a952cff4
-        - pipeline-image@1.0.0-BETA+0a952cff4
-        - structure-block-shortcut@1.0.0-BETA+0a952cff4
-        - structure-function-check-noise-3d@1.0.1-BETA+0a952cff4
-        - structure-mutator@0.1.0-BETA+0a952cff4
-        - structure-sponge-loader@1.0.0-BETA+0a952cff4
-        - structure-terrascript-loader@1.2.0-BETA+0a952cff4
-        - terra@1.0.0
-        - terra-bukkit@1.0.0
-        - terrascript-function-sampler@1.0.0-BETA+0a952cff4
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Terra addons successfully loaded.
-[17:43:23] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Finished initialization.
-[17:43:23] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[17:43:25] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[17:43:25] [Server thread/INFO]: [floodgate] Took 1,461ms to boot Floodgate
-[17:43:25] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[17:43:26] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[17:43:26] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[17:43:26] [Server thread/INFO]: [Terra] Loading server plugin Terra v6.5.1-BETA+0a952cff4
-[17:43:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:43:26] [Server thread/INFO]: [Terra] Enabling Terra v6.5.1-BETA+0a952cff4
-[17:43:26] [Server thread/INFO]: [com.dfsek.terra.bukkit.TerraBukkitPlugin] Running on Minecraft version v1.21.3 with server implementation Paper.
-[17:43:26] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Loading config packs...
-[17:43:26] [Server thread/INFO]: [com.dfsek.terra.registry.master.ConfigRegistry] Loading ZIP archive: default.zip
-[17:43:28] [Server thread/INFO]: [com.dfsek.terra.config.pack.ConfigPackImpl] Loading config pack "OVERWORLD:OVERWORLD"
-[17:43:31] [Server thread/INFO]: [com.dfsek.terra.config.pack.ConfigPackImpl] Loaded config pack "OVERWORLD:OVERWORLD" v1.3.4 by Astrash, Sancires, Aureus in 4159.874187ms.
-[17:43:31] [Server thread/INFO]: [com.dfsek.terra.AbstractPlatform] Loaded packs.
-[17:43:31] [Server thread/ERROR]: [com.dfsek.terra.bukkit.nms.Initializer] NMS bindings for version v1_21_3 do not exist. Support for this version is limited.
-[17:43:31] [Server thread/ERROR]: [com.dfsek.terra.bukkit.nms.Initializer] This is usually due to running Terra on an unsupported Minecraft version.
-[17:43:31] [Server thread/ERROR]: [com.dfsek.terra.bukkit.nms.Initializer] Because of this **TERRA HAS BEEN DISABLED**.
-[17:43:31] [Server thread/ERROR]: [com.dfsek.terra.bukkit.nms.Initializer] Do not come ask us why it is not working.
-[17:43:31] [Server thread/ERROR]: [com.dfsek.terra.bukkit.nms.Initializer] If you wish to proceed anyways, you can add the JVM System Property "IKnowThereAreNoNMSBindingsForv1_21_3ButIWillProceedAnyway" to enable the plugin.
-[17:43:31] [Server thread/INFO]: [Terra] Disabling Terra v6.5.1-BETA+0a952cff4
-[17:43:31] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[17:43:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[17:43:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:43:32] [Server thread/INFO]: [Geyser-Spigot] 
-[17:43:32] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
-[17:43:32] [Server thread/INFO]: [Geyser-Spigot] 
-[17:43:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:43:37] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[17:43:37] [Server thread/INFO]: [Geyser-Spigot] Done (5.411s)! Run /geyser help for help!
-[17:43:37] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.4). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[17:43:37] [Server thread/INFO]: CONSOLE: Reload complete.
-[17:43:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22510ms or 450 ticks behind
-[17:43:37] [Thread-7/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
-[17:43:37] [Thread-13/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
-[17:43:39] [Thread-13/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
-[17:51:02] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[17:51:02] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[17:51:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:51:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:51:02] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[17:51:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[17:51:02] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[17:51:02] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[17:51:03] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[17:51:03] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[17:51:03] [WebSocketConnectReadThread-80/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[17:51:04] [Server thread/INFO]: Loaded 1337 recipes
-[17:51:04] [Server thread/INFO]: Loaded 1448 advancements
-[17:51:05] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:51:05] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[17:51:05] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.6.0-SNAPSHOT), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[17:51:06] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[17:51:07] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[17:51:07] [Server thread/INFO]: [floodgate] Took 1,135ms to boot Floodgate
-[17:51:07] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
-[17:51:07] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
-[17:51:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[17:51:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[17:51:08] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[17:51:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[17:51:09] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[17:51:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:51:09] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[17:51:10] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[17:51:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[17:51:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[17:51:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[17:51:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[17:51:10] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[17:51:10] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[17:51:10] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[17:51:10] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[17:51:10] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[17:51:10] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1038)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015)
-[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000)
-[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505)
-[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454)
-[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890)
-[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664)
-[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329)
-[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
-[17:51:10] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[17:51:10] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
-[17:51:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
-[17:51:10] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[17:51:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:51:11] [Server thread/INFO]: [Geyser-Spigot] 
-[17:51:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
-[17:51:11] [Server thread/INFO]: [Geyser-Spigot] 
-[17:51:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[17:51:20] [epollEventLoopGroup-9-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[17:51:20] [Server thread/INFO]: [Geyser-Spigot] Done (8.97s)! Run /geyser help for help!
-[17:51:21] [Server thread/INFO]: CONSOLE: Reload complete.
-[17:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18818ms or 376 ticks behind
-[17:51:21] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[17:56:24] [Server thread/INFO]: Server Plugins (3):
-[17:56:24] [Server thread/INFO]: Bukkit Plugins:
-[17:56:24] [Server thread/INFO]:  - floodgate, Geyser-Spigot, ViaVersion
-[18:01:30] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:01:30] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:01:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:01:30] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:01:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[18:01:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[18:01:30] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[18:01:30] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[18:01:30] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[18:01:30] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
-[18:01:30] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[18:01:30] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[18:01:30] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[18:01:30] [WebSocketConnectReadThread-150/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[18:01:31] [Server thread/INFO]: Loaded 1337 recipes
-[18:01:31] [Server thread/INFO]: Loaded 1448 advancements
-[18:01:31] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:01:31] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[18:01:31] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.6.0-SNAPSHOT), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[18:01:31] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[18:01:32] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[18:01:32] [Server thread/INFO]: [floodgate] Took 551ms to boot Floodgate
-[18:01:32] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
-[18:01:32] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
-[18:01:32] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[18:01:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[18:01:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[18:01:33] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[18:01:33] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[18:01:33] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[18:01:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:01:33] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[18:01:33] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[18:01:33] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[18:01:33] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[18:01:33] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[18:01:33] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[18:01:33] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[18:01:33] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[18:01:33] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[18:01:33] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[18:01:33] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[18:01:33] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1038)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015)
-[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000)
-[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505)
-[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454)
-[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890)
-[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664)
-[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329)
-[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
-[18:01:33] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[18:01:34] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
-[18:01:34] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
-[18:01:34] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[18:01:34] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[18:01:34] [Server thread/INFO]: [Geyser-Spigot] 
-[18:01:34] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
-[18:01:34] [Server thread/INFO]: [Geyser-Spigot] 
-[18:01:34] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[18:01:38] [epollEventLoopGroup-15-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2363
-[18:01:38] [Server thread/INFO]: [Geyser-Spigot] Done (3.633s)! Run /geyser help for help!
-[18:01:38] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8252ms or 165 ticks behind
-[18:01:38] [Craft Scheduler Thread - 7 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[18:01:39] [pool-47-thread-1/WARN]: [floodgate] 
+[20:25:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[20:25:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[20:25:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:25:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[20:25:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+ - AxGraves (1.17.0), DeathCoords (V1.0), DiscordSRV (1.28.0), Geyser-Spigot (2.6.0-SNAPSHOT), GeyserExtras (2.0.0), GeyserPvP (1.2-BETA), HoloMobHealth (2.3.11.0), ProtocolLib (5.3.0), ViaVersion (5.2.0), advancedChat (1.0.6), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e)), squaremap (1.3.3)
+[20:25:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:25:19] [ServerMain/INFO]: Loaded 1337 recipes
+[20:25:19] [ServerMain/INFO]: Loaded 1448 advancements
+[20:25:19] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:25:19] [Server thread/INFO]: Loading properties
+[20:25:19] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[20:25:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:25:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:25:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:25:22] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:25:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:25:22] [Server thread/INFO]: Default game type: SURVIVAL
+[20:25:22] [Server thread/INFO]: Generating keypair
+[20:25:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:25:22] [Server thread/INFO]: Using epoll channel type
+[20:25:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:25:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:25:22] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/GeyserPvP-1.2-BETA.jar' in 'plugins/.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [OldCombatMechanics]. Please download and install these plugins to run 'GeyserPvP'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:561) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:289) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:25:25] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:25:35] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[20:25:36] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[20:25:36] [Server thread/INFO]: [floodgate] Took 1,034ms to boot Floodgate
+[20:25:36] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[20:25:36] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[20:25:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:25:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:25:37] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[20:25:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[20:25:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[20:25:38] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[20:25:38] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[20:25:39] [Server thread/INFO]: [advancedChat] Loading server plugin advancedChat v1.0.6
+[20:25:39] [Server thread/INFO]: [GeyserExtras] Loading server plugin GeyserExtras v2.0.0
+[20:25:39] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[20:25:39] [Server thread/INFO]: [squaremap] Loading server plugin squaremap v1.3.3
+[20:25:39] [Server thread/INFO]: [HoloMobHealth] Loading server plugin HoloMobHealth v2.3.11.0
+[20:25:39] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
+[20:25:39] [Server thread/INFO]: [AxGraves] Loading library commons-math3
+[20:25:39] [Server thread/INFO]: [AxGraves] Loading library caffeine
+[20:25:39] [Server thread/INFO]: [DeathCoords] Loading server plugin DeathCoords vV1.0
+[20:25:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:25:39] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[20:25:39] [Server thread/INFO]: [squaremap] Enabling squaremap v1.3.3
+[20:25:40] [Server thread/INFO]: [io.undertow] starting server: Undertow - 2.3.18.Final
+[20:25:40] [Server thread/INFO]: [org.xnio] XNIO version 3.8.16.Final
+[20:25:40] [Server thread/INFO]: [org.xnio.nio] XNIO NIO Implementation Version 3.8.16.Final
+[20:25:40] [Server thread/INFO]: [org.jboss.threads] JBoss Threads version 3.5.0.Final
+[20:25:40] [Server thread/INFO]: [squaremap] Internal webserver running on 0.0.0.0:8080
+[20:25:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:25:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:25:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:25:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:25:41] [Server thread/INFO]: Preparing level "world"
+[20:25:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:25:42] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[20:25:43] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 704.1ms
+[20:25:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:45] [Server thread/INFO]: Time elapsed: 2980 ms
+[20:25:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:25:45] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:45] [Server thread/INFO]: Time elapsed: 429 ms
+[20:25:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:25:45] [Server thread/INFO]: Preparing spawn area: 0%
+[20:25:45] [Server thread/INFO]: Time elapsed: 239 ms
+[20:25:45] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[20:25:46] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[20:25:46] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[20:25:46] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[20:25:47] [Server thread/INFO]: [advancedChat] Enabling advancedChat v1.0.6
+[20:25:47] [Server thread/INFO]: [advancedChat] Successfully loaded language file: lang_en.yml
+[20:25:47] [Server thread/INFO]: [advancedChat]  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[20:25:47] [Server thread/INFO]: [advancedChat] ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[20:25:47] [Server thread/INFO]: [advancedChat] ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[20:25:47] [Server thread/INFO]: [advancedChat] ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[20:25:47] [Server thread/INFO]: [advancedChat]  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[20:25:47] [Server thread/INFO]: [advancedChat]  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[20:25:47] [Server thread/INFO]: [advancedChat]   ▒   ▒▒ ░  ░  ▒    ▒ ░▒░ ░  ▒   ▒▒ ░   ░    
+[20:25:47] [Server thread/INFO]: [advancedChat]   ░   ▒   ░         ░  ░░ ░  ░   ▒    ░      
+[20:25:47] [Server thread/INFO]: [advancedChat]       ░  ░░ ░       ░  ░  ░      ░  ░        
+[20:25:47] [Server thread/INFO]: [advancedChat]           ░                                   
+[20:25:47] [Server thread/INFO]: [advancedChat] ║ Plugin has been enabled!
+[20:25:47] [Server thread/INFO]: [advancedChat] ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.6
+[20:25:47] [Server thread/INFO]: [advancedChat] ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[20:25:47] [Server thread/INFO]: [advancedChat] 
+[20:25:47] [Server thread/INFO]: [GeyserExtras] Enabling GeyserExtras v2.0.0
+[20:25:47] [Server thread/INFO]: [GeyserExtras] --------------GeyserExtras--------------
+[20:25:47] [Server thread/INFO]: [GeyserExtras] Version: 2.0.0-ALPHA-13
+[20:25:47] [Server thread/INFO]: [GeyserExtras] Server Type: SPIGOT
+[20:25:47] [Server thread/INFO]: [GeyserExtras] Platform Type: Spigot
+[20:25:47] [Server thread/INFO]: [GeyserExtras] Floodgate installed: Yes
+[20:25:47] [Server thread/WARN]: [GeyserExtras] WARNING: Floodgate is installed, so GeyserExtras settings will not
+[20:25:47] [Server thread/WARN]: [GeyserExtras] show up in the Game Settings menu due to how forms work on GeyserMC.
+[20:25:47] [Server thread/WARN]: [GeyserExtras] If you want a temporary work around to this, use Geyser-Standalone,
+[20:25:47] [Server thread/WARN]: [GeyserExtras] otherwise a notification toast will show up informing players that
+[20:25:47] [Server thread/WARN]: [GeyserExtras] they will have to double tap inventory.
+[20:25:47] [Server thread/INFO]: [GeyserExtras] Loading config...
+[20:25:49] [Server thread/INFO]: [GeyserExtras] Registering events...
+[20:25:49] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[20:25:49] [Server thread/INFO]: [HoloMobHealth] Enabling HoloMobHealth v2.3.11.0
+[20:25:49] [Thread-9/WARN]: [GeyserExtras] GeyserExtras is on the latest version.
+[20:25:50] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[20:25:50] [pool-27-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 29 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[20:25:51] [pool-15-thread-1/WARN]: [floodgate] 
 **********************************
 * You specified an empty prefix in your Floodgate config for Bedrock players!
 * Should a Java player join and a Bedrock player join with the same username, unwanted results and conflicts will happen!
 * We strongly recommend using . as the prefix, but other alternatives that will not conflict include: +, - and *
 **********************************
-[18:08:32] [Server thread/INFO]: Stopping the server
-[18:08:32] [Server thread/INFO]: Stopping server
-[18:08:32] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
-[18:08:32] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[18:08:32] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[18:08:32] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
-[18:08:32] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[18:08:32] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[18:08:32] [Server thread/INFO]: Saving players
-[18:08:32] [WebSocketConnectReadThread-221/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[18:08:32] [Server thread/INFO]: Saving worlds
-[18:08:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:08:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[18:08:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[18:08:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[18:08:33] [Server thread/INFO]: [ChunkHolderManager] Saved 798 block chunks, 5 entity chunks, 0 poi chunks in world 'world' in 1.04s
-[18:08:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[18:08:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[18:08:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[18:08:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[18:08:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[18:08:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.65s
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[18:08:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.78s
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[18:08:34] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[18:08:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:08:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:08:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:08:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:08:34] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[18:08:34] [Server thread/INFO]: All I/O tasks to complete
-[18:08:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[18:08:34] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[20:25:52] [Server thread/INFO]: [HoloMobHealth] Loading languages...
+[20:25:53] [Server thread/INFO]: [HoloMobHealth] Opened Sqlite database successfully
+[20:25:53] [Server thread/INFO]: [HoloMobHealth] HoloMobHealth has been Enabled!
+[20:25:53] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
+[20:25:53] [Server thread/INFO]: [DeathCoords] Enabling DeathCoords vV1.0
+[20:25:54] [Server thread/INFO]: [spark] Starting background profiler...
+[20:25:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:25:54] [Server thread/INFO]: [Geyser-Spigot] 
+[20:25:54] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
+[20:25:54] [Server thread/INFO]: [Geyser-Spigot] 
+[20:25:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[20:26:02] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2363
+[20:26:02] [Server thread/INFO]: [GeyserExtras] Initializing cache...
+[20:26:02] [Server thread/INFO]: [GeyserExtras] Loading cache...
+[20:26:02] [Server thread/INFO]: [GeyserExtras] Loading resources...
+[20:26:02] [Server thread/INFO]: [GeyserExtras] Checking for updates...
+[20:26:02] [Server thread/INFO]: [GeyserExtras] Loading resources...
+[20:26:02] [Server thread/INFO]: [GeyserExtras] Done! (15.051s)
+[20:26:02] [Server thread/INFO]: [GeyserExtras] ----------------------------------------
+[20:26:02] [Server thread/INFO]: [Geyser-Spigot] Done (8.263s)! Run /geyser help for help!
+[20:26:03] [Server thread/INFO]: Done preparing level "world" (22.083s)
+[20:26:03] [Server thread/INFO]: Running delayed init tasks
+[20:26:03] [ForkJoinPool.commonPool-worker-1/INFO]: [squaremap] Fetching version information...
+[20:26:03] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[20:26:03] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:26:03] [Server thread/INFO]: Done (54.956s)! For help, type "help"
+[20:26:06] [Craft Scheduler Thread - 6 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
+[20:26:08] [Craft Scheduler Thread - 6 - HoloMobHealth/INFO]: [HoloMobHealth] A new version is available on SpigotMC: 2.3.12
+[20:26:08] [Craft Scheduler Thread - 6 - HoloMobHealth/INFO]: Download: https://www.spigotmc.org/resources/75975
+[20:26:45] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Zunmei
+[20:26:45] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei (logged in as: Zunmei) has connected to the Java server
+[20:26:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zunmei joined (UUID: 00000000-0000-0000-0009-01f5336be0ee)
+[20:26:46] [Server thread/INFO]: [+] Zunmei
+[20:26:47] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 65 at ([world]-243.90596, 63.0, -274.10663)
+[20:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
+[20:28:12] [Server thread/INFO]: Zunmei issued server command: /holomobhealth
+[20:31:31] [Server thread/INFO]: Zunmei issued server command: /holomobhealth reload
+[20:31:31] [Server thread/INFO]: [HoloMobHealth] Loading languages...
+[20:31:32] [Craft Scheduler Thread - 27 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
+[20:32:51] [Server thread/INFO]: Zunmei issued server command: /holomobhealth help
+[20:32:55] [Server thread/INFO]: Zunmei issued server command: /holomobhealth
