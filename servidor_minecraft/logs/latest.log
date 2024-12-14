@@ -187,3 +187,25 @@ Direct Download: https://get.discordsrv.com
 [20:43:55] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [20:43:55] [Server thread/INFO]: Zunmei was killed
 [20:43:55] [Server thread/INFO]: [Zunmei: Killed Zunmei]
+[20:55:35] [Server thread/INFO]: Zunmei issued server command: /axgraves reload
+[20:55:44] [Server thread/INFO]: Zunmei issued server command: /kill Zunmei
+[20:55:44] [Server thread/INFO]: Zunmei was killed
+[20:55:44] [Server thread/INFO]: [Zunmei: Killed Zunmei]
+[20:58:10] [Server thread/INFO]: Zunmei issued server command: /kill Zunmei
+[20:58:10] [Server thread/INFO]: Zunmei was killed
+[20:58:10] [Server thread/INFO]: [Zunmei: Killed Zunmei]
+[21:02:16] [Server thread/INFO]: Zunmei issued server command: /ge reload
+[21:02:20] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei has disconnected from the Java server because of Bedrock client disconnected
+[21:02:20] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Zunmei disconnected
+[21:02:20] [Server thread/INFO]: Zunmei lost connection: Disconnected
+[21:02:20] [Server thread/INFO]: [-] Zunmei
+[21:02:33] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Zunmei
+[21:02:33] [localSession-7-3/INFO]: [Geyser-Spigot] Zunmei (logged in as: Zunmei) has connected to the Java server
+[21:02:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zunmei joined (UUID: 00000000-0000-0000-0009-01f5336be0ee)
+[21:02:33] [Server thread/INFO]: [+] Zunmei
+[21:02:33] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 5390 at ([world]-230.36781, 81.0, -203.85088)
+[21:02:59] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[21:02:59] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
+[21:03:37] [Server thread/INFO]: Zunmei issued server command: /ge
+[21:04:15] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[21:04:15] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
