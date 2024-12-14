@@ -26,7 +26,7 @@ Display:
   # .
   # Only one line is allowed (Unless you enabled ***EXPERIMENTAL*** multi-line)
   Text:
-    - "&b{Mob_Type_Or_Name}: {DynamicColor}{Health_0.0}&f/{MaxHealth_0.0}"
+    - "{ScaledSymbols}"
     - If Multiline is enabled, you will see this line
   # Settings for the {DynamicColor} Placeholder
   DynamicColorSettings:
@@ -77,7 +77,7 @@ Options:
   # Settings for an alternate way of showing health
   DynamicHealthDisplay:
     # Whether HoloMobHealth should only apply health display when the mob is taking damage
-    Use: false
+    Use: true
     # How long should health be shown after the mob has been attack (in seconds)
     Timeout: 3
     # Should health be triggered only from attacks from players

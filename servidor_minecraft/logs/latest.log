@@ -174,3 +174,16 @@ Direct Download: https://get.discordsrv.com
 [20:31:32] [Craft Scheduler Thread - 27 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
 [20:32:51] [Server thread/INFO]: Zunmei issued server command: /holomobhealth help
 [20:32:55] [Server thread/INFO]: Zunmei issued server command: /holomobhealth
+[20:42:08] [Server thread/INFO]: Zunmei issued server command: /holomobhealth reload
+[20:42:08] [Server thread/INFO]: [HoloMobHealth] Loading languages...
+[20:42:08] [Craft Scheduler Thread - 63 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
+[20:42:28] [Server thread/INFO]: Zunmei issued server command: /holomobhealth reload
+[20:42:28] [Server thread/INFO]: [HoloMobHealth] Loading languages...
+[20:42:28] [Craft Scheduler Thread - 63 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
+[20:43:00] [Server thread/INFO]: Zunmei issued server command: /holomobhealth reload
+[20:43:00] [Server thread/INFO]: [HoloMobHealth] Loading languages...
+[20:43:01] [Craft Scheduler Thread - 86 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
+[20:43:55] [Server thread/INFO]: Zunmei issued server command: /kill Zunmei
+[20:43:55] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:43:55] [Server thread/INFO]: Zunmei was killed
+[20:43:55] [Server thread/INFO]: [Zunmei: Killed Zunmei]
