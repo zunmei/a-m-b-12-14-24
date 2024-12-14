@@ -207,3 +207,156 @@
 [17:43:37] [Thread-7/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
 [17:43:37] [Thread-13/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
 [17:43:39] [Thread-13/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[17:51:02] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[17:51:02] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[17:51:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:51:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:51:02] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[17:51:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[17:51:02] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[17:51:02] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[17:51:03] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[17:51:03] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[17:51:03] [WebSocketConnectReadThread-80/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[17:51:04] [Server thread/INFO]: Loaded 1337 recipes
+[17:51:04] [Server thread/INFO]: Loaded 1448 advancements
+[17:51:05] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:51:05] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[17:51:05] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.6.0-SNAPSHOT), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[17:51:06] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[17:51:07] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[17:51:07] [Server thread/INFO]: [floodgate] Took 1,135ms to boot Floodgate
+[17:51:07] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[17:51:07] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[17:51:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:51:08] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[17:51:08] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[17:51:09] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[17:51:09] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[17:51:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:51:09] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[17:51:10] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[17:51:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[17:51:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[17:51:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[17:51:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[17:51:10] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[17:51:10] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[17:51:10] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[17:51:10] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[17:51:10] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[17:51:10] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1038)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015)
+[17:51:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000)
+[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505)
+[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454)
+[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890)
+[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664)
+[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329)
+[17:51:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
+[17:51:10] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[17:51:10] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[17:51:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[17:51:10] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[17:51:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:51:11] [Server thread/INFO]: [Geyser-Spigot] 
+[17:51:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
+[17:51:11] [Server thread/INFO]: [Geyser-Spigot] 
+[17:51:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:51:20] [epollEventLoopGroup-9-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[17:51:20] [Server thread/INFO]: [Geyser-Spigot] Done (8.97s)! Run /geyser help for help!
+[17:51:21] [Server thread/INFO]: CONSOLE: Reload complete.
+[17:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18818ms or 376 ticks behind
+[17:51:21] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:56:24] [Server thread/INFO]: Server Plugins (3):
+[17:56:24] [Server thread/INFO]: Bukkit Plugins:
+[17:56:24] [Server thread/INFO]:  - floodgate, Geyser-Spigot, ViaVersion
+[18:01:30] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[18:01:30] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[18:01:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:01:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:01:30] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:01:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[18:01:30] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[18:01:30] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[18:01:30] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[18:01:30] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[18:01:30] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[18:01:30] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[18:01:30] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[18:01:30] [WebSocketConnectReadThread-150/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[18:01:31] [Server thread/INFO]: Loaded 1337 recipes
+[18:01:31] [Server thread/INFO]: Loaded 1448 advancements
+[18:01:31] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:01:31] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[18:01:31] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.6.0-SNAPSHOT), ViaVersion (5.2.0), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[18:01:31] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[18:01:32] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[18:01:32] [Server thread/INFO]: [floodgate] Took 551ms to boot Floodgate
+[18:01:32] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[18:01:32] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[18:01:32] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[18:01:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:01:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:01:33] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[18:01:33] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[18:01:33] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[18:01:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:01:33] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[18:01:33] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[18:01:33] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[18:01:33] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[18:01:33] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[18:01:33] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[18:01:33] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[18:01:33] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[18:01:33] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[18:01:33] [Server thread/WARN]: 	at floodgate-spigot (1).jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[18:01:33] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[18:01:33] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1148)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1038)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1015)
+[18:01:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:1000)
+[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:505)
+[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickConnection(DedicatedServer.java:454)
+[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1890)
+[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1664)
+[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1329)
+[18:01:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
+[18:01:33] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[18:01:34] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[18:01:34] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[18:01:34] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[18:01:34] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:01:34] [Server thread/INFO]: [Geyser-Spigot] 
+[18:01:34] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
+[18:01:34] [Server thread/INFO]: [Geyser-Spigot] 
+[18:01:34] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:01:38] [epollEventLoopGroup-15-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2363
+[18:01:38] [Server thread/INFO]: [Geyser-Spigot] Done (3.633s)! Run /geyser help for help!
+[18:01:38] [Server thread/INFO]: CONSOLE: Reload complete.
+[18:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8252ms or 165 ticks behind
+[18:01:38] [Craft Scheduler Thread - 7 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[18:01:39] [pool-47-thread-1/WARN]: [floodgate] 
+**********************************
+* You specified an empty prefix in your Floodgate config for Bedrock players!
+* Should a Java player join and a Bedrock player join with the same username, unwanted results and conflicts will happen!
+* We strongly recommend using . as the prefix, but other alternatives that will not conflict include: +, - and *
+**********************************
