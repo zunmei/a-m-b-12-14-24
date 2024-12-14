@@ -1,27 +1,27 @@
-[20:25:09] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[20:25:09] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[20:25:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:25:10] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
-[20:25:10] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
- - AxGraves (1.17.0), DeathCoords (V1.0), DiscordSRV (1.28.0), Geyser-Spigot (2.6.0-SNAPSHOT), GeyserExtras (2.0.0), GeyserPvP (1.2-BETA), HoloMobHealth (2.3.11.0), ProtocolLib (5.3.0), ViaVersion (5.2.0), advancedChat (1.0.6), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e)), squaremap (1.3.3)
-[20:25:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:25:19] [ServerMain/INFO]: Loaded 1337 recipes
-[20:25:19] [ServerMain/INFO]: Loaded 1448 advancements
-[20:25:19] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[20:25:19] [Server thread/INFO]: Loading properties
-[20:25:19] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[20:25:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:25:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:25:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:25:22] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[20:25:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[20:25:22] [Server thread/INFO]: Default game type: SURVIVAL
-[20:25:22] [Server thread/INFO]: Generating keypair
-[20:25:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:25:22] [Server thread/INFO]: Using epoll channel type
-[20:25:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:25:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:25:22] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/GeyserPvP-1.2-BETA.jar' in 'plugins/.paper-remapped'
+[21:13:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[21:13:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[21:13:08] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:13:09] [ServerMain/INFO]: [PluginInitializerManager] Initialized 12 plugins
+[21:13:09] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (12):
+ - AxGraves (1.17.0), DeathCoords (V1.0), DiscordSRV (1.28.0), Geyser-Spigot (2.6.0-SNAPSHOT), GeyserExtras (2.0.0), GeyserPvP (1.2-BETA), HoloMobHealth (2.3.12.0), ProtocolLib (5.3.0), ViaVersion (5.2.0), advancedChat (1.0.6), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e)), squaremap (1.3.3)
+[21:13:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:13:17] [ServerMain/INFO]: Loaded 1337 recipes
+[21:13:17] [ServerMain/INFO]: Loaded 1448 advancements
+[21:13:17] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[21:13:17] [Server thread/INFO]: Loading properties
+[21:13:17] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[21:13:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:13:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:13:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:13:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:13:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:13:22] [Server thread/INFO]: Default game type: SURVIVAL
+[21:13:22] [Server thread/INFO]: Generating keypair
+[21:13:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:13:23] [Server thread/INFO]: Using epoll channel type
+[21:13:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:13:23] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:13:23] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/GeyserPvP-1.2-BETA.jar' in 'plugins/.paper-remapped'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [OldCombatMechanics]. Please download and install these plugins to run 'GeyserPvP'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
@@ -31,95 +31,95 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[20:25:25] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[20:25:35] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[20:25:36] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[20:25:36] [Server thread/INFO]: [floodgate] Took 1,034ms to boot Floodgate
-[20:25:36] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
-[20:25:36] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
-[20:25:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[20:25:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[20:25:37] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[20:25:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[20:25:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[20:25:38] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
-[20:25:38] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
-[20:25:39] [Server thread/INFO]: [advancedChat] Loading server plugin advancedChat v1.0.6
-[20:25:39] [Server thread/INFO]: [GeyserExtras] Loading server plugin GeyserExtras v2.0.0
-[20:25:39] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
-[20:25:39] [Server thread/INFO]: [squaremap] Loading server plugin squaremap v1.3.3
-[20:25:39] [Server thread/INFO]: [HoloMobHealth] Loading server plugin HoloMobHealth v2.3.11.0
-[20:25:39] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
-[20:25:39] [Server thread/INFO]: [AxGraves] Loading library commons-math3
-[20:25:39] [Server thread/INFO]: [AxGraves] Loading library caffeine
-[20:25:39] [Server thread/INFO]: [DeathCoords] Loading server plugin DeathCoords vV1.0
-[20:25:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:25:39] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
-[20:25:39] [Server thread/INFO]: [squaremap] Enabling squaremap v1.3.3
-[20:25:40] [Server thread/INFO]: [io.undertow] starting server: Undertow - 2.3.18.Final
-[20:25:40] [Server thread/INFO]: [org.xnio] XNIO version 3.8.16.Final
-[20:25:40] [Server thread/INFO]: [org.xnio.nio] XNIO NIO Implementation Version 3.8.16.Final
-[20:25:40] [Server thread/INFO]: [org.jboss.threads] JBoss Threads version 3.5.0.Final
-[20:25:40] [Server thread/INFO]: [squaremap] Internal webserver running on 0.0.0.0:8080
-[20:25:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:25:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:25:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:25:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:25:41] [Server thread/INFO]: Preparing level "world"
-[20:25:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:25:42] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[20:25:43] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 704.1ms
-[20:25:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:44] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:44] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:45] [Server thread/INFO]: Time elapsed: 2980 ms
-[20:25:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:25:45] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:45] [Server thread/INFO]: Time elapsed: 429 ms
-[20:25:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:25:45] [Server thread/INFO]: Preparing spawn area: 0%
-[20:25:45] [Server thread/INFO]: Time elapsed: 239 ms
-[20:25:45] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[20:25:46] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
-[20:25:46] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
-[20:25:46] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[20:25:47] [Server thread/INFO]: [advancedChat] Enabling advancedChat v1.0.6
-[20:25:47] [Server thread/INFO]: [advancedChat] Successfully loaded language file: lang_en.yml
-[20:25:47] [Server thread/INFO]: [advancedChat]  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
-[20:25:47] [Server thread/INFO]: [advancedChat] ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
-[20:25:47] [Server thread/INFO]: [advancedChat] ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
-[20:25:47] [Server thread/INFO]: [advancedChat] ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
-[20:25:47] [Server thread/INFO]: [advancedChat]  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
-[20:25:47] [Server thread/INFO]: [advancedChat]  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
-[20:25:47] [Server thread/INFO]: [advancedChat]   ▒   ▒▒ ░  ░  ▒    ▒ ░▒░ ░  ▒   ▒▒ ░   ░    
-[20:25:47] [Server thread/INFO]: [advancedChat]   ░   ▒   ░         ░  ░░ ░  ░   ▒    ░      
-[20:25:47] [Server thread/INFO]: [advancedChat]       ░  ░░ ░       ░  ░  ░      ░  ░        
-[20:25:47] [Server thread/INFO]: [advancedChat]           ░                                   
-[20:25:47] [Server thread/INFO]: [advancedChat] ║ Plugin has been enabled!
-[20:25:47] [Server thread/INFO]: [advancedChat] ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.6
-[20:25:47] [Server thread/INFO]: [advancedChat] ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
-[20:25:47] [Server thread/INFO]: [advancedChat] 
-[20:25:47] [Server thread/INFO]: [GeyserExtras] Enabling GeyserExtras v2.0.0
-[20:25:47] [Server thread/INFO]: [GeyserExtras] --------------GeyserExtras--------------
-[20:25:47] [Server thread/INFO]: [GeyserExtras] Version: 2.0.0-ALPHA-13
-[20:25:47] [Server thread/INFO]: [GeyserExtras] Server Type: SPIGOT
-[20:25:47] [Server thread/INFO]: [GeyserExtras] Platform Type: Spigot
-[20:25:47] [Server thread/INFO]: [GeyserExtras] Floodgate installed: Yes
-[20:25:47] [Server thread/WARN]: [GeyserExtras] WARNING: Floodgate is installed, so GeyserExtras settings will not
-[20:25:47] [Server thread/WARN]: [GeyserExtras] show up in the Game Settings menu due to how forms work on GeyserMC.
-[20:25:47] [Server thread/WARN]: [GeyserExtras] If you want a temporary work around to this, use Geyser-Standalone,
-[20:25:47] [Server thread/WARN]: [GeyserExtras] otherwise a notification toast will show up informing players that
-[20:25:47] [Server thread/WARN]: [GeyserExtras] they will have to double tap inventory.
-[20:25:47] [Server thread/INFO]: [GeyserExtras] Loading config...
-[20:25:49] [Server thread/INFO]: [GeyserExtras] Registering events...
-[20:25:49] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
-[20:25:49] [Server thread/INFO]: [HoloMobHealth] Enabling HoloMobHealth v2.3.11.0
-[20:25:49] [Thread-9/WARN]: [GeyserExtras] GeyserExtras is on the latest version.
-[20:25:50] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
-[20:25:50] [pool-27-thread-1/WARN]: [DiscordSRV] 
+[21:13:24] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:13:34] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:13:35] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:13:35] [Server thread/INFO]: [floodgate] Took 994ms to boot Floodgate
+[21:13:35] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
+[21:13:35] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
+[21:13:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:13:37] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:13:37] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[21:13:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:13:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:13:38] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[21:13:38] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.3) has not yet been tested! Proceed with caution.
+[21:13:38] [Server thread/INFO]: [advancedChat] Loading server plugin advancedChat v1.0.6
+[21:13:38] [Server thread/INFO]: [GeyserExtras] Loading server plugin GeyserExtras v2.0.0
+[21:13:38] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[21:13:38] [Server thread/INFO]: [squaremap] Loading server plugin squaremap v1.3.3
+[21:13:38] [Server thread/INFO]: [HoloMobHealth] Loading server plugin HoloMobHealth v2.3.12.0
+[21:13:38] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.17.0
+[21:13:38] [Server thread/INFO]: [AxGraves] Loading library commons-math3
+[21:13:38] [Server thread/INFO]: [AxGraves] Loading library caffeine
+[21:13:38] [Server thread/INFO]: [DeathCoords] Loading server plugin DeathCoords vV1.0
+[21:13:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:13:38] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[21:13:38] [Server thread/INFO]: [squaremap] Enabling squaremap v1.3.3
+[21:13:40] [Server thread/INFO]: [io.undertow] starting server: Undertow - 2.3.18.Final
+[21:13:40] [Server thread/INFO]: [org.xnio] XNIO version 3.8.16.Final
+[21:13:40] [Server thread/INFO]: [org.xnio.nio] XNIO NIO Implementation Version 3.8.16.Final
+[21:13:40] [Server thread/INFO]: [org.jboss.threads] JBoss Threads version 3.5.0.Final
+[21:13:40] [Server thread/INFO]: [squaremap] Internal webserver running on 0.0.0.0:8080
+[21:13:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:13:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:13:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:13:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:13:40] [Server thread/INFO]: Preparing level "world"
+[21:13:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:13:41] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[21:13:42] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 793.3ms
+[21:13:43] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:43] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:43] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:43] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:44] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:44] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:44] [Server thread/INFO]: Time elapsed: 2928 ms
+[21:13:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:13:44] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:45] [Server thread/INFO]: Time elapsed: 465 ms
+[21:13:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:13:45] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:45] [Server thread/INFO]: Time elapsed: 213 ms
+[21:13:45] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:13:46] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
+[21:13:46] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[21:13:46] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[21:13:46] [Server thread/INFO]: [advancedChat] Enabling advancedChat v1.0.6
+[21:13:46] [Server thread/INFO]: [advancedChat] Successfully loaded language file: lang_en.yml
+[21:13:46] [Server thread/INFO]: [advancedChat]  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[21:13:46] [Server thread/INFO]: [advancedChat] ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[21:13:46] [Server thread/INFO]: [advancedChat] ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[21:13:46] [Server thread/INFO]: [advancedChat] ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[21:13:46] [Server thread/INFO]: [advancedChat]  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[21:13:46] [Server thread/INFO]: [advancedChat]  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[21:13:46] [Server thread/INFO]: [advancedChat]   ▒   ▒▒ ░  ░  ▒    ▒ ░▒░ ░  ▒   ▒▒ ░   ░    
+[21:13:46] [Server thread/INFO]: [advancedChat]   ░   ▒   ░         ░  ░░ ░  ░   ▒    ░      
+[21:13:46] [Server thread/INFO]: [advancedChat]       ░  ░░ ░       ░  ░  ░      ░  ░        
+[21:13:46] [Server thread/INFO]: [advancedChat]           ░                                   
+[21:13:46] [Server thread/INFO]: [advancedChat] ║ Plugin has been enabled!
+[21:13:46] [Server thread/INFO]: [advancedChat] ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.6
+[21:13:46] [Server thread/INFO]: [advancedChat] ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[21:13:46] [Server thread/INFO]: [advancedChat] 
+[21:13:46] [Server thread/INFO]: [GeyserExtras] Enabling GeyserExtras v2.0.0
+[21:13:46] [Server thread/INFO]: [GeyserExtras] --------------GeyserExtras--------------
+[21:13:46] [Server thread/INFO]: [GeyserExtras] Version: 2.0.0-ALPHA-13
+[21:13:46] [Server thread/INFO]: [GeyserExtras] Server Type: SPIGOT
+[21:13:46] [Server thread/INFO]: [GeyserExtras] Platform Type: Spigot
+[21:13:46] [Server thread/INFO]: [GeyserExtras] Floodgate installed: Yes
+[21:13:46] [Server thread/WARN]: [GeyserExtras] WARNING: Floodgate is installed, so GeyserExtras settings will not
+[21:13:46] [Server thread/WARN]: [GeyserExtras] show up in the Game Settings menu due to how forms work on GeyserMC.
+[21:13:46] [Server thread/WARN]: [GeyserExtras] If you want a temporary work around to this, use Geyser-Standalone,
+[21:13:46] [Server thread/WARN]: [GeyserExtras] otherwise a notification toast will show up informing players that
+[21:13:46] [Server thread/WARN]: [GeyserExtras] they will have to double tap inventory.
+[21:13:46] [Server thread/INFO]: [GeyserExtras] Loading config...
+[21:13:48] [Server thread/INFO]: [GeyserExtras] Registering events...
+[21:13:48] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[21:13:48] [Server thread/INFO]: [HoloMobHealth] Enabling HoloMobHealth v2.3.12.0
+[21:13:48] [Thread-9/WARN]: [GeyserExtras] GeyserExtras is on the latest version.
+[21:13:49] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[21:13:49] [pool-27-thread-1/WARN]: [DiscordSRV] 
 
 The current build of DiscordSRV is outdated by 29 commits! Get the latest build at your favorite distribution center.
 
@@ -127,85 +127,113 @@ Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
 Github: https://github.com/DiscordSRV/DiscordSRV/releases
 Direct Download: https://get.discordsrv.com
 
-[20:25:51] [pool-15-thread-1/WARN]: [floodgate] 
+[21:13:51] [pool-15-thread-1/WARN]: [floodgate] 
 **********************************
 * You specified an empty prefix in your Floodgate config for Bedrock players!
 * Should a Java player join and a Bedrock player join with the same username, unwanted results and conflicts will happen!
 * We strongly recommend using . as the prefix, but other alternatives that will not conflict include: +, - and *
 **********************************
-[20:25:52] [Server thread/INFO]: [HoloMobHealth] Loading languages...
-[20:25:53] [Server thread/INFO]: [HoloMobHealth] Opened Sqlite database successfully
-[20:25:53] [Server thread/INFO]: [HoloMobHealth] HoloMobHealth has been Enabled!
-[20:25:53] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
-[20:25:53] [Server thread/INFO]: [DeathCoords] Enabling DeathCoords vV1.0
-[20:25:54] [Server thread/INFO]: [spark] Starting background profiler...
-[20:25:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[20:25:54] [Server thread/INFO]: [Geyser-Spigot] 
-[20:25:54] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
-[20:25:54] [Server thread/INFO]: [Geyser-Spigot] 
-[20:25:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[20:26:02] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2363
-[20:26:02] [Server thread/INFO]: [GeyserExtras] Initializing cache...
-[20:26:02] [Server thread/INFO]: [GeyserExtras] Loading cache...
-[20:26:02] [Server thread/INFO]: [GeyserExtras] Loading resources...
-[20:26:02] [Server thread/INFO]: [GeyserExtras] Checking for updates...
-[20:26:02] [Server thread/INFO]: [GeyserExtras] Loading resources...
-[20:26:02] [Server thread/INFO]: [GeyserExtras] Done! (15.051s)
-[20:26:02] [Server thread/INFO]: [GeyserExtras] ----------------------------------------
-[20:26:02] [Server thread/INFO]: [Geyser-Spigot] Done (8.263s)! Run /geyser help for help!
-[20:26:03] [Server thread/INFO]: Done preparing level "world" (22.083s)
-[20:26:03] [Server thread/INFO]: Running delayed init tasks
-[20:26:03] [ForkJoinPool.commonPool-worker-1/INFO]: [squaremap] Fetching version information...
-[20:26:03] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
-[20:26:03] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[20:26:03] [Server thread/INFO]: Done (54.956s)! For help, type "help"
-[20:26:06] [Craft Scheduler Thread - 6 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
-[20:26:08] [Craft Scheduler Thread - 6 - HoloMobHealth/INFO]: [HoloMobHealth] A new version is available on SpigotMC: 2.3.12
-[20:26:08] [Craft Scheduler Thread - 6 - HoloMobHealth/INFO]: Download: https://www.spigotmc.org/resources/75975
-[20:26:45] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Zunmei
-[20:26:45] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei (logged in as: Zunmei) has connected to the Java server
-[20:26:46] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zunmei joined (UUID: 00000000-0000-0000-0009-01f5336be0ee)
-[20:26:46] [Server thread/INFO]: [+] Zunmei
-[20:26:47] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 65 at ([world]-243.90596, 63.0, -274.10663)
-[20:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
-[20:28:12] [Server thread/INFO]: Zunmei issued server command: /holomobhealth
-[20:31:31] [Server thread/INFO]: Zunmei issued server command: /holomobhealth reload
-[20:31:31] [Server thread/INFO]: [HoloMobHealth] Loading languages...
-[20:31:32] [Craft Scheduler Thread - 27 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
-[20:32:51] [Server thread/INFO]: Zunmei issued server command: /holomobhealth help
-[20:32:55] [Server thread/INFO]: Zunmei issued server command: /holomobhealth
-[20:42:08] [Server thread/INFO]: Zunmei issued server command: /holomobhealth reload
-[20:42:08] [Server thread/INFO]: [HoloMobHealth] Loading languages...
-[20:42:08] [Craft Scheduler Thread - 63 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
-[20:42:28] [Server thread/INFO]: Zunmei issued server command: /holomobhealth reload
-[20:42:28] [Server thread/INFO]: [HoloMobHealth] Loading languages...
-[20:42:28] [Craft Scheduler Thread - 63 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
-[20:43:00] [Server thread/INFO]: Zunmei issued server command: /holomobhealth reload
-[20:43:00] [Server thread/INFO]: [HoloMobHealth] Loading languages...
-[20:43:01] [Craft Scheduler Thread - 86 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
-[20:43:55] [Server thread/INFO]: Zunmei issued server command: /kill Zunmei
-[20:43:55] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:43:55] [Server thread/INFO]: Zunmei was killed
-[20:43:55] [Server thread/INFO]: [Zunmei: Killed Zunmei]
-[20:55:35] [Server thread/INFO]: Zunmei issued server command: /axgraves reload
-[20:55:44] [Server thread/INFO]: Zunmei issued server command: /kill Zunmei
-[20:55:44] [Server thread/INFO]: Zunmei was killed
-[20:55:44] [Server thread/INFO]: [Zunmei: Killed Zunmei]
-[20:58:10] [Server thread/INFO]: Zunmei issued server command: /kill Zunmei
-[20:58:10] [Server thread/INFO]: Zunmei was killed
-[20:58:10] [Server thread/INFO]: [Zunmei: Killed Zunmei]
-[21:02:16] [Server thread/INFO]: Zunmei issued server command: /ge reload
-[21:02:20] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei has disconnected from the Java server because of Bedrock client disconnected
-[21:02:20] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Zunmei disconnected
-[21:02:20] [Server thread/INFO]: Zunmei lost connection: Disconnected
-[21:02:20] [Server thread/INFO]: [-] Zunmei
-[21:02:33] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Zunmei
-[21:02:33] [localSession-7-3/INFO]: [Geyser-Spigot] Zunmei (logged in as: Zunmei) has connected to the Java server
-[21:02:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zunmei joined (UUID: 00000000-0000-0000-0009-01f5336be0ee)
-[21:02:33] [Server thread/INFO]: [+] Zunmei
-[21:02:33] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 5390 at ([world]-230.36781, 81.0, -203.85088)
-[21:02:59] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
-[21:02:59] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
-[21:03:37] [Server thread/INFO]: Zunmei issued server command: /ge
-[21:04:15] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
-[21:04:15] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[21:13:52] [Server thread/INFO]: [HoloMobHealth] Loading languages...
+[21:13:52] [Server thread/INFO]: [HoloMobHealth] Opened Sqlite database successfully
+[21:13:52] [Server thread/INFO]: [HoloMobHealth] HoloMobHealth has been Enabled!
+[21:13:52] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.17.0
+[21:13:53] [Server thread/INFO]: [DeathCoords] Enabling DeathCoords vV1.0
+[21:13:53] [Server thread/INFO]: [spark] Starting background profiler...
+[21:13:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:13:54] [Server thread/INFO]: [Geyser-Spigot] 
+[21:13:54] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b730 (git-master-ba5b422)
+[21:13:54] [Server thread/INFO]: [Geyser-Spigot] 
+[21:13:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:14:01] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 2363
+[21:14:01] [Server thread/INFO]: [GeyserExtras] Initializing cache...
+[21:14:01] [Server thread/INFO]: [GeyserExtras] Loading cache...
+[21:14:01] [Server thread/INFO]: [GeyserExtras] Loading resources...
+[21:14:01] [Server thread/INFO]: [GeyserExtras] Checking for updates...
+[21:14:01] [Server thread/INFO]: [GeyserExtras] Loading resources...
+[21:14:02] [Server thread/INFO]: [GeyserExtras] Done! (15.047s)
+[21:14:02] [Server thread/INFO]: [GeyserExtras] ----------------------------------------
+[21:14:02] [Server thread/INFO]: [Geyser-Spigot] Done (7.302s)! Run /geyser help for help!
+[21:14:02] [Server thread/INFO]: Done preparing level "world" (21.435s)
+[21:14:02] [Server thread/INFO]: Running delayed init tasks
+[21:14:02] [ForkJoinPool.commonPool-worker-1/INFO]: [squaremap] Fetching version information...
+[21:14:02] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:14:02] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[21:14:02] [Server thread/INFO]: Done (55.806s)! For help, type "help"
+[21:14:05] [Craft Scheduler Thread - 6 - HoloMobHealth/INFO]: [HoloMobHealth] Loaded all 1 languages!
+[21:16:17] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Zunmei
+[21:16:17] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei (logged in as: Zunmei) has connected to the Java server
+[21:16:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zunmei joined (UUID: 00000000-0000-0000-0009-01f5336be0ee)
+[21:16:17] [Server thread/INFO]: [+] Zunmei
+[21:16:18] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 93 at ([world]-236.53307, 80.0, -201.60207)
+[21:16:58] [Server thread/INFO]: Zunmei issued server command: /weather clear
+[21:16:58] [Server thread/INFO]: [Zunmei: Set the weather to clear]
+[21:17:58] [Server thread/INFO]: Zunmei has made the advancement [Monster Hunter]
+[21:18:36] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[21:18:36] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
+[21:18:41] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei has disconnected from the Java server because of Bedrock client disconnected
+[21:18:41] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Zunmei disconnected
+[21:18:41] [Server thread/INFO]: Zunmei lost connection: Disconnected
+[21:18:41] [Server thread/INFO]: [-] Zunmei
+[21:18:58] [Server thread/INFO]: Stopping the server
+[21:18:58] [Server thread/INFO]: Stopping server
+[21:18:58] [Server thread/INFO]: [DeathCoords] Disabling DeathCoords vV1.0
+[21:18:58] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
+[21:18:58] [Server thread/INFO]: [HoloMobHealth] Disabling HoloMobHealth v2.3.12.0
+[21:18:58] [Server thread/INFO]: [HoloMobHealth] HoloMobHealth has been Disabled!
+[21:18:58] [Server thread/INFO]: [squaremap] Disabling squaremap v1.3.3
+[21:18:58] [Server thread/INFO]: [io.undertow] stopping server: Undertow - 2.3.18.Final
+[21:18:58] [Server thread/INFO]: [squaremap] Internal webserver stopped
+[21:18:58] [Server thread/INFO]: [GeyserExtras] Disabling GeyserExtras v2.0.0
+[21:18:58] [Server thread/INFO]: [advancedChat] Disabling advancedChat v1.0.6
+[21:18:58] [Server thread/INFO]: [advancedChat]  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[21:18:58] [Server thread/INFO]: [advancedChat] ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[21:18:58] [Server thread/INFO]: [advancedChat] ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[21:18:58] [Server thread/INFO]: [advancedChat] ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[21:18:58] [Server thread/INFO]: [advancedChat]  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[21:18:58] [Server thread/INFO]: [advancedChat]  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[21:18:58] [Server thread/INFO]: [advancedChat]   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[21:18:58] [Server thread/INFO]: [advancedChat]   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[21:18:58] [Server thread/INFO]: [advancedChat]       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[21:18:58] [Server thread/INFO]: [advancedChat] ║ Plugin has been disabled!
+[21:18:58] [Server thread/INFO]: [advancedChat] ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.6
+[21:18:58] [Server thread/INFO]: [advancedChat] ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[21:18:58] [Server thread/INFO]: [advancedChat] 
+[21:18:58] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[21:18:58] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[21:18:58] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:18:58] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:18:58] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[21:18:58] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[21:18:58] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:18:58] [Server thread/INFO]: Saving players
+[21:18:58] [WebSocketConnectReadThread-111/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:18:58] [Server thread/INFO]: Saving worlds
+[21:18:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:18:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:18:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:18:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Saved 727 block chunks, 727 entity chunks, 0 poi chunks in world 'world' in 2.36s
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[21:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[21:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.07s
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[21:19:01] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[21:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:19:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:19:01] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[21:19:01] [Server thread/INFO]: All I/O tasks to complete
+[21:19:01] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[21:19:01] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
