@@ -3,10 +3,10 @@
 # For more details, go to https://geyserextras.github.io/
 
 # Enable the Java Edition styled cooldown.
-enable-custom-cooldown: true
+enable-custom-cooldown: false
 
 # Enable the Java Edition combat sounds.
-enable-java-combat-sounds: true
+enable-java-combat-sounds: false
 
 # Forces block placements to not be hold-bridgable/scaffold-bridgeable.
 # Requires disable-bedrock-scaffolding: true in Geyser's config for forward block placements.
@@ -58,7 +58,7 @@ enable-knockback-attack-sprint-fix: true
 # Enables downloading of Bedrock Player skins.
 # This will download the Geometry, Animations, and Textures of your players skins/capes.
 # Persona skins are currently bugged.
-enable-skin-saving: false
+enable-skin-saving: true
 
 # Sets the default emote chat option for Java Players.
 # The GeyserExtras plugin forwards emote chat from Bedrock Edition to Java Players.

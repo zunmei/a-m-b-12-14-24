@@ -1,6 +1,6 @@
 config-version: 2
 settings:
-    language-file: lang-en.yml
+    language-file: lang-es.yml
     debug-mode: false
     update-checker: true
     web-address: http://localhost:8080

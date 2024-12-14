@@ -10,7 +10,7 @@ help:
 - ' &7- &f/axgraves list &7| &#FF00FFList spawned graves'
 - ' '
 
-gui-name: '&0%player%''s Grave'
+gui-name: 'tumba de &0%player%'''
 
 # if you restart the server, sometimes the server can't find the owner's name, this will be used for it
 unknown-player: Unknown
@@ -20,11 +20,11 @@ reload:
   failed: '&#FF3333Failed to reload the plugin! Something is wrong in the &f%file%&#FF3333 file, look in the console or use a yaml validator to fix the errors!'
 
 interact:
-  not-your-grave: '&#FFAAFFYou can only open your own grave!'
+  not-your-grave: '&#FFAAFFSolo puedes abrir tu propia tumba.'
 
 death-message:
   enabled: false
-  message: '&#FFAAAAYou have died at &f%world% %x%, %y%, %z%&#FFAAAA!'
+  message: '&#FFAAAAMoriste en &f%world% %x%, %y%, %z%&#FFAAAA!'
 
 grave-list:
   header: '&#FF00FF&l=== GRAVES ==='
