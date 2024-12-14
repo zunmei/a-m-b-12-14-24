@@ -24,7 +24,7 @@ alias_commands:
 #      - '&#00FF00This is a example message'
 
 grammar: # This system capitalizes the beginning of the sentence and adds a period at the end.
-  enabled: true # Indicates whether the system is activated or not
+  enabled: false # Indicates whether the system is activated or not
 
 # AntiCore-Caps feature settings.
 # If true, messages with excessive capital letters will be modified or blocked.
