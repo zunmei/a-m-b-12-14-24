@@ -228,3 +228,15 @@ Direct Download: https://get.discordsrv.com
 [04:53:23] [Server thread/INFO]: JanSo16 has made the advancement [Ice Bucket Challenge]
 [04:56:24] [Server thread/INFO]: JanSo16 has made the advancement [Into Fire]
 [04:56:56] [Server thread/INFO]: JanSo16 was slain by Blaze
+[05:01:40] [Server thread/INFO]: JanSo16 has made the advancement [Not Today, Thank You]
+[05:04:29] [Server thread/INFO]: Zunmei was burned to a crisp while fighting Blaze
+[05:05:11] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[05:05:11] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[05:05:32] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei has disconnected from the Java server because of Bedrock client disconnected
+[05:05:32] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Zunmei disconnected
+[05:05:32] [Server thread/INFO]: Zunmei lost connection: Disconnected
+[05:05:32] [Server thread/INFO]: [-] Zunmei
+[05:05:44] [Server thread/INFO]: Server Plugins (12):
+[05:05:44] [Server thread/INFO]: Bukkit Plugins:
+[05:05:44] [Server thread/INFO]:  - advancedChat, AxGraves, DeathCoords, DiscordSRV, floodgate, Geyser-Spigot, GeyserExtras, *GeyserPvP, HoloMobHealth, ProtocolLib
+[05:05:44] [Server thread/INFO]:  squaremap, ViaVersion
