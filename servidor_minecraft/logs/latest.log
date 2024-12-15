@@ -214,3 +214,9 @@ Direct Download: https://get.discordsrv.com
 [04:36:54] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
 [04:36:54] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
 [04:38:31] [Server thread/INFO]: Zunmei has made the advancement [We Need to Go Deeper]
+[04:43:15] [Server thread/INFO]: JanSo16 has made the advancement [We Need to Go Deeper]
+[04:45:12] [Server thread/INFO]: Villager Villager['Villager'/112, uuid='a243c96f-d74d-49bf-abbe-349407562803', l='ServerLevel[world]', x=255.30, y=79.00, z=-160.70, cpos=[15, -11], tl=76304, v=true] died, message: 'Villager was slain by Zombie'
+[04:45:21] [Server thread/INFO]: Villager Villager['Villager'/8, uuid='33cdec2d-2f7f-429b-88db-8d2b564493a5', l='ServerLevel[world]', x=255.30, y=79.00, z=-160.29, cpos=[15, -11], tl=76477, v=true] died, message: 'Villager was slain by Zombie'
+[04:45:28] [Server thread/INFO]: Villager Villager['Villager'/39, uuid='c0698e30-467b-4d39-9f42-510c83918aec', l='ServerLevel[world]', x=255.70, y=79.00, z=-157.30, cpos=[15, -10], tl=70958, v=true] died, message: 'Villager was slain by Zombie'
+[04:45:35] [Server thread/INFO]: Villager Villager['Villager'/82, uuid='3e3bb8f9-3851-4448-8c3b-1add70e463dd', l='ServerLevel[world]', x=255.30, y=79.00, z=-157.30, cpos=[15, -10], tl=71108, v=true] died, message: 'Villager was slain by Zombie'
+[04:46:47] [Server thread/INFO]: JanSo16 was slain by Piglin
