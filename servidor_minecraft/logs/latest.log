@@ -2,3 +2,66 @@
 [01:10:41] [Server thread/INFO]: Bukkit Plugins:
 [01:10:41] [Server thread/INFO]:  - advancedChat, AxGraves, DeathCoords, DiscordSRV, floodgate, Geyser-Spigot, GeyserExtras, *GeyserPvP, HoloMobHealth, ProtocolLib
 [01:10:41] [Server thread/INFO]:  squaremap, ViaVersion
+[01:28:37] [Server thread/INFO]: Stopping the server
+[01:28:37] [Server thread/INFO]: Stopping server
+[01:28:37] [Server thread/INFO]: [DeathCoords] Disabling DeathCoords vV1.0
+[01:28:37] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
+[01:28:37] [Server thread/INFO]: [HoloMobHealth] Disabling HoloMobHealth v2.3.12.0
+[01:28:37] [Server thread/INFO]: [HoloMobHealth] HoloMobHealth has been Disabled!
+[01:28:37] [Server thread/INFO]: [squaremap] Disabling squaremap v1.3.3
+[01:28:37] [Server thread/INFO]: [io.undertow] stopping server: Undertow - 2.3.18.Final
+[01:28:37] [Server thread/INFO]: [squaremap] Internal webserver stopped
+[01:28:37] [Server thread/INFO]: [GeyserExtras] Disabling GeyserExtras v2.0.0
+[01:28:37] [Server thread/INFO]: [advancedChat] Disabling advancedChat v1.0.6
+[01:28:37] [Server thread/INFO]: [advancedChat]  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[01:28:37] [Server thread/INFO]: [advancedChat] ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[01:28:37] [Server thread/INFO]: [advancedChat] ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[01:28:37] [Server thread/INFO]: [advancedChat] ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[01:28:37] [Server thread/INFO]: [advancedChat]  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[01:28:37] [Server thread/INFO]: [advancedChat]  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[01:28:37] [Server thread/INFO]: [advancedChat]   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[01:28:37] [Server thread/INFO]: [advancedChat]   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[01:28:37] [Server thread/INFO]: [advancedChat]       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[01:28:37] [Server thread/INFO]: [advancedChat] ║ Plugin has been disabled!
+[01:28:37] [Server thread/INFO]: [advancedChat] ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.6
+[01:28:37] [Server thread/INFO]: [advancedChat] ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[01:28:37] [Server thread/INFO]: [advancedChat] 
+[01:28:37] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[01:28:37] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[01:28:37] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:28:38] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:28:38] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[01:28:38] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:28:38] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[01:28:38] [Server thread/INFO]: Saving players
+[01:28:38] [WebSocketConnectReadThread-151/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:28:38] [Server thread/INFO]: Saving worlds
+[01:28:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 27 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:28:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:28:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:28:38] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:28:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:28:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:28:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:28:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:28:38] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[01:28:38] [Server thread/INFO]: All I/O tasks to complete
+[01:28:38] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:28:38] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
