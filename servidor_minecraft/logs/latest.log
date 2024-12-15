@@ -241,3 +241,5 @@ Direct Download: https://get.discordsrv.com
 [05:05:44] [Server thread/INFO]:  - advancedChat, AxGraves, DeathCoords, DiscordSRV, floodgate, Geyser-Spigot, GeyserExtras, *GeyserPvP, HoloMobHealth, ProtocolLib
 [05:05:44] [Server thread/INFO]:  squaremap, ViaVersion
 [05:16:15] [Server thread/INFO]: JanSo16 has made the advancement [A Seedy Place]
+[05:23:53] [Server thread/INFO]: Villager Villager['Farmer'/100, uuid='dc931b13-1080-4baa-8fec-ff96d86b3c24', l='ServerLevel[world]', x=303.95, y=73.00, z=-140.51, cpos=[18, -9], tl=81184, v=true] died, message: 'Farmer was slain by Zombie'
+[05:24:27] [Server thread/INFO]: Villager Villager['Villager'/86, uuid='c20b9fe2-3993-4578-a4b8-7222e412101c', l='ServerLevel[world]', x=249.30, y=79.19, z=-148.38, cpos=[15, -10], tl=78734, v=true] died, message: 'Villager was slain by Zombie'
