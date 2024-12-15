@@ -176,3 +176,14 @@ Direct Download: https://get.discordsrv.com
 [03:51:50] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
 [03:53:19] [Server thread/INFO]: Zunmei issued server command: /time set day
 [03:53:19] [Server thread/INFO]: [Zunmei: Set the time to 1000]
+[04:02:39] [Server thread/INFO]: Zunmei issued server command: /time set day
+[04:02:39] [Server thread/INFO]: [Zunmei: Set the time to 1000]
+[04:02:51] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username JanSo16
+[04:02:51] [localSession-7-3/INFO]: [Geyser-Spigot] JanSo16 (logged in as: JanSo16) has connected to the Java server
+[04:02:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as JanSo16 joined (UUID: 00000000-0000-0000-0009-01fd201e7177)
+[04:02:51] [Server thread/INFO]: [+] JanSo16
+[04:02:51] [Server thread/INFO]: JanSo16[/127.0.0.1:0] logged in with entity id 1654 at ([world]324.5, 73.0, -113.5)
+[04:06:00] [Server thread/INFO]: Zunmei has made the advancement [Stone Age]
+[04:06:01] [Server thread/INFO]: JanSo16 has made the advancement [Stone Age]
+[04:06:13] [Server thread/INFO]: JanSo16 has made the advancement [Getting an Upgrade]
+[04:08:53] [Server thread/INFO]: JanSo16 has made the advancement [Acquire Hardware]
