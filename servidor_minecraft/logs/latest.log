@@ -289,3 +289,13 @@ Direct Download: https://get.discordsrv.com
 [22:27:30] [Server thread/WARN]: Zunmei moved wrongly!
 [22:28:18] [Server thread/INFO]: Zunmei was blown up by Creeper
 [22:38:47] [Server thread/INFO]: JanSo16 has made the advancement [You've Got a Friend in Me]
+[22:43:02] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[22:43:02] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[22:43:16] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[22:43:16] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
+[22:46:28] [localSession-7-2/INFO]: [Geyser-Spigot] JanSo16 has disconnected from the Java server because of Bedrock client disconnected
+[22:46:28] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as JanSo16 disconnected
+[22:46:28] [Server thread/INFO]: JanSo16 lost connection: Disconnected
+[22:46:28] [Server thread/INFO]: [-] JanSo16
+[22:50:24] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[22:50:24] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
