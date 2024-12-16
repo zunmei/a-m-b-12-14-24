@@ -299,3 +299,5 @@ Direct Download: https://get.discordsrv.com
 [22:46:28] [Server thread/INFO]: [-] JanSo16
 [22:50:24] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
 [22:50:24] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[23:15:03] [Server thread/INFO]: Zunmei issued server command: /weather clear
+[23:15:03] [Server thread/INFO]: [Zunmei: Set the weather to clear]
