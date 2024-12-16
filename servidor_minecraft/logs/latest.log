@@ -149,3 +149,17 @@ Direct Download: https://get.discordsrv.com
 [19:44:48] [Server thread/INFO]: JanSo16[/127.0.0.1:0] logged in with entity id 1024 at ([world]256.66406, 68.0, -349.69528)
 [19:49:55] [Server thread/WARN]: Zunmei moved wrongly!
 [19:51:21] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 19.95
+[20:02:08] [Server thread/INFO]: Zunmei has made the advancement [Isn't It Iron Pick]
+[20:02:19] [Server thread/WARN]: Andrey321jr moved wrongly!
+[20:02:19] [Server thread/WARN]: Andrey321jr moved wrongly!
+[20:05:36] [Server thread/INFO]: Zunmei has made the advancement [Suit Up]
+[20:06:15] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[20:06:15] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[20:06:23] [Server thread/INFO]: Villager Villager['Villager'/155, uuid='f851ab8c-bcc0-4932-afb6-8ff3ce70fc7c', l='ServerLevel[world]', x=231.49, y=63.00, z=-160.30, cpos=[14, -11], tl=137964, v=true] died, message: 'Villager was slain by Zombie'
+[20:06:29] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[20:06:29] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
+[20:06:30] [Server thread/INFO]: Villager Villager['Villager'/156, uuid='9e202678-1bed-4742-a7c5-9a1feb46102f', l='ServerLevel[world]', x=231.70, y=63.00, z=-160.70, cpos=[14, -11], tl=137921, v=true] died, message: 'Villager was slain by Zombie'
+[20:08:20] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei has disconnected from the Java server because of Bedrock client disconnected
+[20:08:20] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Zunmei disconnected
+[20:08:20] [Server thread/INFO]: Zunmei lost connection: Disconnected
+[20:08:20] [Server thread/INFO]: [-] Zunmei
