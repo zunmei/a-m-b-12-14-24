@@ -186,3 +186,14 @@ Direct Download: https://get.discordsrv.com
 [20:21:08] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
 [20:21:08] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
 [20:23:54] [Server thread/INFO]: Andrey321jr has made the advancement [Acquire Hardware]
+[20:31:36] [Server thread/INFO]: Andrey321jr has made the advancement [Monster Hunter]
+[20:32:59] [Server thread/INFO]: Zunmei has made the advancement [Diamonds!]
+[20:34:56] [localSession-7-3/INFO]: [Geyser-Spigot] Andrey321jr has disconnected from the Java server because of Bedrock client disconnected
+[20:34:56] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as Andrey321jr disconnected
+[20:34:56] [Server thread/INFO]: Andrey321jr lost connection: Disconnected
+[20:34:56] [Server thread/INFO]: [-] Andrey321jr
+[20:35:59] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Andrey321jr
+[20:35:59] [localSession-7-3/INFO]: [Geyser-Spigot] Andrey321jr (logged in as: Andrey321jr) has connected to the Java server
+[20:35:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as Andrey321jr joined (UUID: 00000000-0000-0000-0009-01f1e1558e7e)
+[20:35:59] [Server thread/INFO]: [+] Andrey321jr
+[20:35:59] [Server thread/INFO]: Andrey321jr[/127.0.0.1:0] logged in with entity id 15664 at ([world]255.30003, 27.0, -52.30001)
