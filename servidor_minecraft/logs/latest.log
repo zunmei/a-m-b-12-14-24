@@ -197,3 +197,12 @@ Direct Download: https://get.discordsrv.com
 [20:35:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as Andrey321jr joined (UUID: 00000000-0000-0000-0009-01f1e1558e7e)
 [20:35:59] [Server thread/INFO]: [+] Andrey321jr
 [20:35:59] [Server thread/INFO]: Andrey321jr[/127.0.0.1:0] logged in with entity id 15664 at ([world]255.30003, 27.0, -52.30001)
+[20:44:23] [Server thread/INFO]: Zunmei has made the advancement [Not Today, Thank You]
+[20:47:48] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[20:47:48] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[20:48:24] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[20:48:24] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
+[20:48:44] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[20:48:44] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[20:48:57] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[20:48:57] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
