@@ -1,9 +1,16 @@
 [
   {
-    "location": "world;403.5;108.5;-31.5;161.63086;66.79053",
+    "location": "world;403.5;111.5;-31.5;161.63086;66.79053",
     "owner": "00000000-0000-0000-0009-01f5336be0ee",
     "items": "AAAACQAAAAAAAAAAAAAAAAAAAAAAAA\u003d\u003d",
     "xp": 20,
     "date": 1734216127956
+  },
+  {
+    "location": "world;320.5;75.5;-117.5;119.79651;18.13031",
+    "owner": "00000000-0000-0000-0009-01f5336be0ee",
+    "items": "AAAACQBNH4sIAAAAAAAA/+NiYGBm4HZJLEkMSy0qzszPY2Dg/8TBwJSZwiCQm5mXmlyUmFZiVVxSlJmXzszAmpxfmlfCwMDAxAAAD8762jkAAAAAUR+LCAAAAAAAAP/jYmBgZuB2SSxJDEstKs7Mz2Ng4P/EwcCUmcIgkpuZl5pclJhWYlVcUFSanBqfk5/OzMCanF+aV8LAwMDIAAAmprE+PQAAAAAAAAAAAAAAAAAAAAAA",
+    "xp": 5,
+    "date": 1734377537645
   }
 ]
