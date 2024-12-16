@@ -206,3 +206,9 @@ Direct Download: https://get.discordsrv.com
 [20:48:44] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
 [20:48:57] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
 [20:48:57] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
+[20:52:00] [Server thread/WARN]: JanSo16 moved wrongly!
+[20:57:41] [localSession-7-1/INFO]: [Geyser-Spigot] Zunmei has disconnected from the Java server because of Bedrock client disconnected
+[20:57:41] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as Zunmei disconnected
+[20:57:41] [Server thread/INFO]: Zunmei lost connection: Disconnected
+[20:57:41] [Server thread/INFO]: [-] Zunmei
+[20:58:56] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
