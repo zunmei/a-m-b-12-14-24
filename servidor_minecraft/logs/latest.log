@@ -175,3 +175,14 @@ Direct Download: https://get.discordsrv.com
 [20:15:15] [Server thread/INFO]: JanSo16 lost connection: Disconnected
 [20:15:15] [Server thread/INFO]: [-] JanSo16
 [20:17:14] [Server thread/INFO]: Zunmei has made the advancement [The Cutest Predator]
+[20:19:00] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username JanSo16
+[20:19:00] [localSession-7-2/INFO]: [Geyser-Spigot] JanSo16 (logged in as: JanSo16) has connected to the Java server
+[20:19:01] [Server thread/INFO]: [floodgate] Floodgate player logged in as JanSo16 joined (UUID: 00000000-0000-0000-0009-01fd201e7177)
+[20:19:01] [Server thread/INFO]: [+] JanSo16
+[20:19:01] [Server thread/INFO]: JanSo16[/127.0.0.1:0] logged in with entity id 10265 at ([world]265.18182, 68.0, -328.8775)
+[20:19:26] [Server thread/WARN]: Andrey321jr moved wrongly!
+[20:20:47] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[20:20:47] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[20:21:08] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[20:21:08] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
+[20:23:54] [Server thread/INFO]: Andrey321jr has made the advancement [Acquire Hardware]
