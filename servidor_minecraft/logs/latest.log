@@ -170,3 +170,70 @@ Direct Download: https://get.discordsrv.com
 [19:18:38] [Server thread/INFO]: Villager Villager['Villager'/61, uuid='9c1823e5-5f1d-42df-bb84-e8b7901d879c', l='ServerLevel[world]', x=277.52, y=75.00, z=-90.35, cpos=[17, -6], tl=83558, v=true] died, message: 'Villager was slain by Zombie'
 [19:18:42] [Server thread/INFO]: Zunmei issued server command: /weather clear
 [19:18:42] [Server thread/INFO]: [Zunmei: Set the weather to clear]
+[19:21:51] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Zunmei disconnected
+[19:21:51] [localSession-7-2/INFO]: [Geyser-Spigot] Zunmei has disconnected from the Java server because of Bedrock client disconnected
+[19:21:51] [Server thread/INFO]: Zunmei lost connection: Disconnected
+[19:21:51] [Server thread/INFO]: [-] Zunmei
+[19:24:13] [Server thread/INFO]: Stopping the server
+[19:24:13] [Server thread/INFO]: Stopping server
+[19:24:13] [Server thread/INFO]: [DeathCoords] Disabling DeathCoords vV1.0
+[19:24:13] [Server thread/INFO]: [AxGraves] Disabling AxGraves v1.17.0
+[19:24:13] [Server thread/INFO]: [HoloMobHealth] Disabling HoloMobHealth v2.3.12.0
+[19:24:13] [Server thread/INFO]: [HoloMobHealth] HoloMobHealth has been Disabled!
+[19:24:13] [Server thread/INFO]: [squaremap] Disabling squaremap v1.3.3
+[19:24:13] [Server thread/INFO]: [io.undertow] stopping server: Undertow - 2.3.18.Final
+[19:24:13] [Server thread/INFO]: [squaremap] Internal webserver stopped
+[19:24:13] [Server thread/INFO]: [GeyserExtras] Disabling GeyserExtras v2.0.0
+[19:24:13] [Server thread/INFO]: [advancedChat] Disabling advancedChat v1.0.6
+[19:24:13] [Server thread/INFO]: [advancedChat]  ▄▄▄       ▄████▄   ██░ ██  ▄▄▄     ▄▄▄█████▓
+[19:24:13] [Server thread/INFO]: [advancedChat] ▒████▄    ▒██▀ ▀█  ▓██░ ██▒▒████▄   ▓  ██▒ ▓▒
+[19:24:13] [Server thread/INFO]: [advancedChat] ▒██  ▀█▄  ▒▓█    ▄ ▒██▀▀██░▒██  ▀█▄ ▒ ▓██░ ▒░
+[19:24:13] [Server thread/INFO]: [advancedChat] ░██▄▄▄▄██ ▒▓▓▄ ▄██▒░▓█ ░██ ░██▄▄▄▄██░ ▓██▓ ░ 
+[19:24:13] [Server thread/INFO]: [advancedChat]  ▓█   ▓██▒▒ ▓███▀ ░░▓█▒░██▓ ▓█   ▓██▒ ▒██▒ ░ 
+[19:24:13] [Server thread/INFO]: [advancedChat]  ▒▒   ▓▒█░░ ░▒ ▒  ░ ▒ ░░▒░▒ ▒▒   ▓▒█░ ▒ ░░   
+[19:24:13] [Server thread/INFO]: [advancedChat]   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░  ▒ ░ ░  ▒░▒   ░  ▒ ░ ░ ░  ░
+[19:24:13] [Server thread/INFO]: [advancedChat]   ░   ▒      ░   ░ ░    ░     ░   ░   ░    ░  ▒ ░   ░   
+[19:24:13] [Server thread/INFO]: [advancedChat]       ░  ░         ░    ░  ░    ░     ░       ░     ░  ░
+[19:24:13] [Server thread/INFO]: [advancedChat] ║ Plugin has been disabled!
+[19:24:13] [Server thread/INFO]: [advancedChat] ║ aChat - Advanced ChatCommands Plugin | Version: 1.0.6
+[19:24:13] [Server thread/INFO]: [advancedChat] ║ Author: mustiffy | Discord: https://discord.gg/pgYaVNbCTE
+[19:24:13] [Server thread/INFO]: [advancedChat] 
+[19:24:13] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[19:24:13] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[19:24:13] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[19:24:13] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[19:24:13] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.0
+[19:24:13] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[19:24:13] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[19:24:13] [Server thread/INFO]: Saving players
+[19:24:13] [WebSocketConnectReadThread-112/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[19:24:13] [Server thread/INFO]: Saving worlds
+[19:24:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 123 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[19:24:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:24:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Saved 615 block chunks, 622 entity chunks, 0 poi chunks in world 'world_nether' in 1.03s
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[19:24:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[19:24:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[19:24:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:24:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:24:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:24:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:24:14] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[19:24:14] [Server thread/INFO]: All I/O tasks to complete
+[19:24:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[19:24:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
