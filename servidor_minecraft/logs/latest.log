@@ -147,3 +147,5 @@ Direct Download: https://get.discordsrv.com
 [19:44:48] [Server thread/INFO]: [floodgate] Floodgate player logged in as JanSo16 joined (UUID: 00000000-0000-0000-0009-01fd201e7177)
 [19:44:48] [Server thread/INFO]: [+] JanSo16
 [19:44:48] [Server thread/INFO]: JanSo16[/127.0.0.1:0] logged in with entity id 1024 at ([world]256.66406, 68.0, -349.69528)
+[19:49:55] [Server thread/WARN]: Zunmei moved wrongly!
+[19:51:21] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 19.95
