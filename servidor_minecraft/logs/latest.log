@@ -212,3 +212,20 @@ Direct Download: https://get.discordsrv.com
 [20:57:41] [Server thread/INFO]: Zunmei lost connection: Disconnected
 [20:57:41] [Server thread/INFO]: [-] Zunmei
 [20:58:56] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 20.0
+[20:59:18] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Zunmei
+[20:59:18] [localSession-7-4/INFO]: [Geyser-Spigot] Zunmei (logged in as: Zunmei) has connected to the Java server
+[20:59:18] [User Authenticator #0/INFO]: UUID of player Zunmei is 5af71b0d-0b49-3cdc-a3c0-77881e4ec11d
+[20:59:18] [Server thread/INFO]: [+] Zunmei
+[20:59:18] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 24045 at ([world]327.5, 84.0, -102.5)
+[21:01:26] [Server thread/INFO]: JanSo16 was slain by Zombie
+[21:01:59] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[21:02:32] [localSession-7-4/INFO]: [Geyser-Spigot] Zunmei has disconnected from the Java server because of Bedrock client disconnected
+[21:02:32] [Server thread/INFO]: Zunmei lost connection: Disconnected
+[21:02:32] [Server thread/INFO]: [-] Zunmei
+[21:02:50] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Zunmei
+[21:02:50] [localSession-7-1/INFO]: [Geyser-Spigot] Zunmei (logged in as: Zunmei) has connected to the Java server
+[21:02:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zunmei joined (UUID: 00000000-0000-0000-0009-01f5336be0ee)
+[21:02:51] [Server thread/INFO]: [+] Zunmei
+[21:02:51] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 25738 at ([world]431.30001, 73.0, -13.69999)
+[21:04:26] [Server thread/INFO]: JanSo16 was slain by Zombie
+[21:08:36] [Server thread/INFO]: Andrey321jr has made the advancement [Not Today, Thank You]
