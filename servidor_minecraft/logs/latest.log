@@ -163,3 +163,15 @@ Direct Download: https://get.discordsrv.com
 [20:08:20] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Zunmei disconnected
 [20:08:20] [Server thread/INFO]: Zunmei lost connection: Disconnected
 [20:08:20] [Server thread/INFO]: [-] Zunmei
+[20:08:38] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Zunmei
+[20:08:38] [localSession-7-1/INFO]: [Geyser-Spigot] Zunmei (logged in as: Zunmei) has connected to the Java server
+[20:08:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zunmei joined (UUID: 00000000-0000-0000-0009-01f5336be0ee)
+[20:08:39] [Server thread/INFO]: [+] Zunmei
+[20:08:39] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 7478 at ([world]397.60498, 6.0, -79.7)
+[20:11:19] [Server thread/INFO]: Andrey321jr has made the advancement [Stone Age]
+[20:12:51] [Server thread/INFO]: Andrey321jr has made the advancement [Getting an Upgrade]
+[20:15:15] [localSession-7-4/INFO]: [Geyser-Spigot] JanSo16 has disconnected from the Java server because of Bedrock client disconnected
+[20:15:15] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as JanSo16 disconnected
+[20:15:15] [Server thread/INFO]: JanSo16 lost connection: Disconnected
+[20:15:15] [Server thread/INFO]: [-] JanSo16
+[20:17:14] [Server thread/INFO]: Zunmei has made the advancement [The Cutest Predator]
