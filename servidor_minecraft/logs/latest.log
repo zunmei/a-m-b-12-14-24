@@ -234,3 +234,14 @@ Direct Download: https://get.discordsrv.com
 [21:16:02] [Server thread/INFO]: Zunmei has made the advancement [Ice Bucket Challenge]
 [21:16:55] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
 [21:16:55] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[21:20:32] [Server thread/INFO]: Andrey321jr has made the advancement [A Seedy Place]
+[21:20:32] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[21:20:32] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
+[21:25:33] [Server thread/INFO]: Zunmei issued server command: /gamemode creative
+[21:25:33] [Server thread/INFO]: [Zunmei: Set own game mode to Creative Mode]
+[21:28:46] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as Andrey321jr disconnected
+[21:28:46] [localSession-7-3/INFO]: [Geyser-Spigot] Andrey321jr has disconnected from the Java server because of Bedrock client disconnected
+[21:28:46] [Server thread/INFO]: Andrey321jr lost connection: Disconnected
+[21:28:46] [Server thread/INFO]: [-] Andrey321jr
+[21:29:16] [Server thread/INFO]: Zunmei issued server command: /gamemode survival
+[21:29:16] [Server thread/INFO]: [Zunmei: Set own game mode to Survival Mode]
