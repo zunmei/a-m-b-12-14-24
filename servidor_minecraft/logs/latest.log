@@ -133,3 +133,5 @@ Direct Download: https://get.discordsrv.com
 [20:34:15] [Server thread/INFO]: [floodgate] Floodgate player logged in as Zunmei joined (UUID: 00000000-0000-0000-0009-01f5336be0ee)
 [20:34:15] [Server thread/INFO]: [+] Zunmei
 [20:34:16] [Server thread/INFO]: Zunmei[/127.0.0.1:0] logged in with entity id 58 at ([world]359.6878, 78.0, -217.69974)
+[20:42:38] [Server thread/INFO]: Zunmei issued server command: /weather clear
+[20:42:38] [Server thread/INFO]: [Zunmei: Set the weather to clear]
